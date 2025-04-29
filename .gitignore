@@ -1,2 +1,5 @@
 /hidden
-/data
+/data/history.csv
+/data/raw_prices.csv
+/data/returns.csv
+/scripts/__pycache__
